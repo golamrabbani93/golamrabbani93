@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rabbani7235" target="blank"><img src="https://img.shields.io/twitter/follow/rabbani7235?logo=twitter&style=for-the-badge" alt="rabbani7235" /></a> </p>
 
-- 🔭 I’m currently working on [Wood-stocks](https://woods-stocks.web.app/)
+- 🔭 I’m currently working on [Wood-stocks](https://woods-stocks.web.app/),and my portfolio webrabbani
 
 - 🌱 I’m currently learning **Redux,Next.js,TypeScript,**
 
