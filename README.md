@@ -43,11 +43,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on [E-shopspots](https://eshopspots.web.app/)
+- 🔭 I’m currently working on [CAREPRESS]([https://eshopspots.web.app/](https://carepress.vercel.app/))
 
-- 🌱 I’m currently learning **Redux,NextJs,Advance Mongoose**
+- 🌱 I’m currently learning **Advance NextJs**
 
-- 👯 I’m looking to collaborate on [Memo-managements](https://memo-managements.web.app/)
+- 👯 I’m looking to collaborate on open source Project
 
 - 👨‍💻 All of my projects are available at [https://webrabbani.web.app/](https://webrabbani.web.app/)
 
