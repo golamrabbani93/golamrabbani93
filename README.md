@@ -39,4 +39,6 @@
 [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
 
 
+## :chart_with_upwards_trend: Current Stats
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golamrabbani93&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="golamrabbani93" /></p>
