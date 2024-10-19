@@ -9,8 +9,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/-HTML5%20-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
- <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"> 
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"> 
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 
 </p>
 
