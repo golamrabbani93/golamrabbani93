@@ -6,6 +6,11 @@
 
 
 
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://img.shields.io/badge/-HTML5%20-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+
+
+
 - 🔭 I’m currently working on [E-shopspots](https://eshopspots.web.app/)
 
 - 🌱 I’m currently learning **Redux,NextJs,Advance Mongoose**
