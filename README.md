@@ -3,6 +3,11 @@
   <img src="https://github.com/yourusername/repo/blob/main/banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
+<!-- Glassmorphism Card -->
+<p align="center">
+  <img src="https://github.com/yourusername/repo/blob/main/glassmorphism-card.png" alt="Glassmorphism Card" width="60%" />
+</p>
+
 <!-- Profile Info -->
 <h1 align="center">Hi 👋, I'm Your Name</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast</h3>
