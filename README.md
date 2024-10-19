@@ -43,7 +43,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [CAREPRESS]([https://eshopspots.web.app/](https://carepress.vercel.app/))
+- 🔭 I’m currently working on [CAREPRESS](https://carepress.vercel.app/)
 
 - 🌱 I’m currently learning **Advance NextJs**
 
