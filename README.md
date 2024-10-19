@@ -6,7 +6,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+## :computer: Technologies that I know
 <p>
   <img src="https://img.shields.io/badge/-HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"> 
@@ -69,6 +69,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golamrabbani93&show_icons=true&locale=en&bg_color=151515&text_color=fff" alt="golamrabbani93" /></p>
 
 
-
+## :chart_with_upwards_trend: Current Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golamrabbani93&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="golamrabbani93" /></p>
