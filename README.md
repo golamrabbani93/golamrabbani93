@@ -39,6 +39,9 @@
 </p>
 
 
+## 🧑: About me
+
+<br/>
 
 - 🔭 I’m currently working on [E-shopspots](https://eshopspots.web.app/)
 
