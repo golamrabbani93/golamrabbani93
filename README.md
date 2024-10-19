@@ -25,6 +25,12 @@
 <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 <img src="https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm">
+<img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" alt="Prettier">
+<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint">
 
 
 </p>
