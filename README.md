@@ -75,9 +75,11 @@
 </p>
 
 
+<br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golamrabbani93&show_icons=true&locale=en&bg_color=151515&text_color=fff" alt="golamrabbani93" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golamrabbani93&show_icons=true&locale=en&bg_color=151515&text_color=fff&title_color=fff" alt="golamrabbani93" /></p>
 
 
 ## :chart_with_upwards_trend: Current Stats
