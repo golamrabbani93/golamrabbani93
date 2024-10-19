@@ -7,7 +7,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/-HTML5%20-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+<p>
+  <img src="https://img.shields.io/badge/-HTML5%20-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3%20-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+</p>
 
 
 
