@@ -1,7 +1,7 @@
 ![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
-<h3 align="center">A passionate frontend developer from Rajshahi, Bangladesh</h3>
+<h3 align="center">As a MERN developer, my vision is to create easy-to-use web apps that help businesses grow. My mission is to build fast, reliable solutions and share knowledge to help others succeed.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrabbani93&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="golamrabbani93" /> </p>
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [CAREPRESS](https://carepress.vercel.app/)
+- 🔭 I’m currently working on my latest project [CAREPRESS](https://carepress.vercel.app/)
 
 - 🌱 I’m currently learning **Advance NextJs**
 
