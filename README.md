@@ -1,4 +1,7 @@
-![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/logo.gif)
+<video width="640" height="360" controls autoplay loop muted>
+  <source src="https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
 <h3 align="center">A passionate frontend developer from Rajshahi, Bangladesh</h3>
 
