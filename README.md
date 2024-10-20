@@ -1,4 +1,4 @@
-![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner%20(1).gif)
+![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
 <h3 align="center">A passionate frontend developer from Rajshahi, Bangladesh</h3>
