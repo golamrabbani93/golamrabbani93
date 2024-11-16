@@ -56,7 +56,7 @@
 
 - 📫 How to reach me **devrabbani9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
+- 📄 Learn more about my experiences through my [Resume](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
 
 - ⚡ Fun fact **I seem to eat a little too much**
 
