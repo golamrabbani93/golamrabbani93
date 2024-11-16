@@ -44,21 +44,21 @@
 
 <br/>
 
-- 🔭 I’m currently working on my latest project [CAREPRESS](https://carepress.vercel.app/)
+ 🔭 I’m currently working on my latest project [CAREPRESS](https://carepress.vercel.app/)
 
-- 🌱 I’m currently learning **Advance NextJs**
+ 🌱 I’m currently learning **Advance NextJs**
 
-- 👯 I’m looking to collaborate on open source Project
+ 👯 I’m looking to collaborate on open source Project
 
-- 👨‍💻 All of my projects are available at [https://dev-rabbani.web.app/](https://dev-rabbani.web.app/)
+ 👨‍💻 All of my projects are available at [https://dev-rabbani.web.app/](https://dev-rabbani.web.app/)
 
-- 💬 Ask me about **Javascript,ReactJS,NodeJS**
+ 💬 Ask me about **Javascript,ReactJS,NodeJS**
 
-- 📫 How to reach me **devrabbani9@gmail.com**
+ 📫 How to reach me **devrabbani9@gmail.com**
 
-- 📄 Learn more about my experiences through my [Resume](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
+ 📄 Learn more about my experiences through my [Resume](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
 
-- ⚡ Fun fact **I seem to eat a little too much**
+ ⚡ Fun fact **I seem to eat a little too much**
 
 
 
