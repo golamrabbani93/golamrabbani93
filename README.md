@@ -1,7 +1,7 @@
-![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner(2).gif)
+![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
-<h3 align="center">As a MERN developer, my vision is to create user-friendly web applications that simplify tasks and support business growth. My mission is to build fast and reliable solutions using MongoDB, Express.js, React, and Node.js, while sharing my knowledge to help others learn and succeed in web development.</h3>
+<h3 align="center">As a MERN developer, my vision is to create user-friendly web applications that simplify tasks and support business growth. My mission is to build fast and reliable solutions using MongoDB, Express.js, React, and Node.js while sharing my knowledge to help others learn and succeed in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrabbani93&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="golamrabbani93" /> </p>
 
