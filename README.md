@@ -50,13 +50,13 @@
 
 - 👯 I’m looking to collaborate on open source Project
 
-- 👨‍💻 All of my projects are available at [https://webrabbani.web.app/](https://webrabbani.web.app/)
+- 👨‍💻 All of my projects are available at [https://dev-rabbani.web.app/](https://dev-rabbani.web.app/)
 
 - 💬 Ask me about **Javascript,ReactJS,NodeJS**
 
-- 📫 How to reach me **golamrabbani7235@gmail.com**
+- 📫 How to reach me **devrabbani9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ylj7u6tyoVKY-nIW_5bnoFrJGrybY86h/view](https://drive.google.com/file/d/1Ylj7u6tyoVKY-nIW_5bnoFrJGrybY86h/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Ylj7u6tyoVKY-nIW_5bnoFrJGrybY86h/view](https://drive.google.com/file/d/1Ylj7u6tyoVKY-nIW_5bnoFrJGrybY86h/view)](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
 
 - ⚡ Fun fact **I seem to eat a little too much**
 
