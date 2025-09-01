@@ -49,12 +49,12 @@
 
 </p>
 
-
-<h3>A MERN Stack Engineer</h3>
 <br/>
 <a href="https://devrabbani.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
- - 🔭 I’m currently working [Devrabbani](https://devrabbani.vercel.app/)
+<h3>A MERN Stack Engineer</h3>
 
+ - 🔭 I’m currently working [Devrabbani](https://devrabbani.vercel.app/)
+ 
  - 🌱 I’m currently learning **SQL**
 
  - 👨‍💻 All of my projects are available at [https://devrabbani.vercel.app/projects](https://devrabbani.vercel.app/projects)
@@ -64,7 +64,6 @@
  - 📫 How to reach me **devrabbani9@gmail.com**
 
  - 📄 Learn more about my experiences through my [Resume](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
-
 
 <!--## :mailbox: Reach me out
 
