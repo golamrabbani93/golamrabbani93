@@ -100,7 +100,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <div align=center>
   <span><a href="https://devrabbani.vercel.app/"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=golamrabbani93&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
-  <span><a href="https://devrabbani.vercel.app/"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=4196830d-45c7-41e0-bf9e-62c4504dc20e&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
+  <span><a href="https://devrabbani.vercel.app/"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=golamrabbani&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
   <span><a href="https://devrabbani.vercel.app/"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=golamrabbani93&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
   <span><a href="https://devrabbani.vercel.app/"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=golamrabbani93&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
