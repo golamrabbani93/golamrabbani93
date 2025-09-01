@@ -1,9 +1,15 @@
 ![logo](https://github.com/golamrabbani93/golamrabbani93/blob/main/github-banner.gif)
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
+<a href="https://www.linkedin.com/in/g-rabbani/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
+<a href="https://github.com/golamrabbani93" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://devrabbani.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
 <h3 align="center">As a MERN developer, my vision is to create user-friendly web applications that simplify tasks and support business growth. My mission is to build fast and reliable solutions using MongoDB, Express.js, React, and Node.js while sharing my knowledge to help others learn and succeed in web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrabbani93&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="golamrabbani93" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrabbani93&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="golamrabbani93" /> </p>-->
 
 
 
@@ -44,22 +50,17 @@
 
 <br/>
 
- 🔭 I’m currently working on my latest project [CAREPRESS](https://carepress.vercel.app/)
+ 🔭 I’m currently working [Devrabbani](https://devrabbani.vercel.app/)
 
- 🌱 I’m currently learning **Advance NextJs**
+ 🌱 I’m currently learning **SQL**
 
- 👯 I’m looking to collaborate on open source Project
+ 👨‍💻 All of my projects are available at [https://devrabbani.vercel.app/projects](https://devrabbani.vercel.app/projects)
 
- 👨‍💻 All of my projects are available at [https://dev-rabbani.web.app/](https://dev-rabbani.web.app/)
-
- 💬 Ask me about **Javascript,ReactJS,NodeJS**
+ 💬 Ask me about **JavaScript, TypeScript, React JS, Next JS, Node Js**
 
  📫 How to reach me **devrabbani9@gmail.com**
 
  📄 Learn more about my experiences through my [Resume](https://drive.google.com/file/d/1I2R7nnqgCk0HBGVPAexzEVUi1zgGYdLG/view?usp=sharing)
-
- ⚡ Fun fact **I seem to eat a little too much**
-
 
 
 ## :mailbox: Reach me out
