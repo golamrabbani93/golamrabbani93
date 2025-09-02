@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
-<h3 align="center">As a MERN developer, my vision is to create user-friendly web applications that simplify tasks and support business growth. My mission is to build fast and reliable solutions using MongoDB, Express.js, React, and Node.js while sharing my knowledge to help others learn and succeed in web development.</h3>
+<h3 align="center">Detail-oriented Junior Front-End Developer with 6 months of internship experience building responsive, high-performance web applications using React, Next.js, and Tailwind CSS. Delivered features that boosted user engagement by 20% and reduced page load times by 30%. Skilled in creating reusable UI components and collaborating in agile teams to meet 100% of sprint deadlines, and seeking to drive impactful front-end solutions.</h3>
 
 
 
